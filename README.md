@@ -1,1 +1,2 @@
 # Sartorious
+# Configuration Variables
