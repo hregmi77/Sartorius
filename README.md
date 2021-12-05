@@ -1,4 +1,4 @@
-# Sartorious
+# Sartorius
 Welcome  to the Sartorius project. Project Members: Hem Regmi, Yuqi Wu
 # Unet Model
 - The Unet model is based on the architecture from: https://arxiv.org/pdf/1505.04597.pdf
