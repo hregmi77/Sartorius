@@ -1,5 +1,5 @@
 # Sartorius
-Welcome  to the Sartorius project. Project Members: Hem Regmi, Yuqi Wu
+Welcome  to the Sartorius project. Project Members: Hem Regmi, Yuqi Wu @yuki0025
 # Unet Model
 - The Unet model is based on the architecture from: https://arxiv.org/pdf/1505.04597.pdf
 - The image size for the project is (256, 256, 3), and hence input pattern is needed to modified.
