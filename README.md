@@ -16,7 +16,7 @@ Welcome  to the Sartorius project. Project Members: Hem Regmi, Yuqi Wu @yuki0025
 - This model is running based on PyTorch API and tested on python 3.7
 - To Train Model:
     - create the project in pycharm or any other IDE and install all the dependencies
-    - download the data and code from: https://www.dropbox.com/sh/2uptg7fwntzze38/AAA8iVNC5I3_YqS_6OyGMmnwa?dl=0
+    - download the data and code from: https://www.dropbox.com/sh/m160tzcmw810pr4/AABr_26nsyExeV7dzDlh7SBwa?dl=0
     - run the main.py to train the model
     - It requires ~ 7 -8 hours to train the model (also depends on epoch value)
     - run evaluate.py to evaluate and print the output images
