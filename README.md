@@ -18,6 +18,7 @@ Welcome  to the Sartorius project. Project Members: Hem Regmi, Yuqi Wu @yuki0025
     - create the project in pycharm or any other IDE and install all the dependencies
     - download the data and code from: https://www.dropbox.com/sh/2uptg7fwntzze38/AAA8iVNC5I3_YqS_6OyGMmnwa?dl=0
     - run the main.py to train the model
+    - It requires ~ 7 -8 hours to train the model (also depends on epoch value)
     - run evaluate.py to evaluate and print the output images
     - run plotdata.py to generate the instance segmented and cell detected images for multiple images
  # To do list
